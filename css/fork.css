@@ -1,0 +1,30 @@
+body {
+    background-color: grey;
+    text-align: center;
+}
+
+h1 {
+    color:antiquewhite;
+}
+
+p {
+    font-size: larger;
+    color:aliceblue
+}
+
+a {
+    background-color: white;
+    color:black;
+    font-size: larger;
+    text-decoration: none;
+    padding: 8px;
+}
+
+a:hover{
+    background-color: lightblue;
+
+}
+
+img {
+    width: 300px;
+}
