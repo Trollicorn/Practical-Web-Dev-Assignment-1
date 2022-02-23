@@ -16,10 +16,11 @@ h4 {
 }
 
 a {
-    background-color: blue;
+    background-color: lightcyan;
     color: black;
     text-decoration: none;
-    padding: 8px;
+    padding: 6px;
+    border-radius: 20%;
 }
 
 a:hover {
@@ -28,4 +29,5 @@ a:hover {
 
 img {
     width: 200px;
+    border-radius: 5%;
 }
