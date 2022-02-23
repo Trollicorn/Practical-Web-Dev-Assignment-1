@@ -1,0 +1,30 @@
+body {
+    background-color: lightyellow;
+    text-align: center;
+}
+
+h1 {
+    font-family:monospace;
+}
+
+p {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    font-family: monospace;
+    padding: 8px;
+}
+
+a:hover {
+    font-style: bold;
+    font-size: larger;
+}
+
+img {
+    width: 300px;
+}
